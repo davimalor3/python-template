@@ -1,0 +1,4 @@
+# libs utilizadas em produção
+
+# Exemplo:
+    # requests
